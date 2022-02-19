@@ -37,7 +37,7 @@ The following is a set of guidelines for contributing to AMEA.
 
 ## How to contribute?
 
-### Visualizing Antartica Data
+### Visualization of Antarctic Data
 
 This section guides you through submitting your visualizations and findings. Following these guidelines helps maintainers and the community understand your finding and reproduce the results.
 
